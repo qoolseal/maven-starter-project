@@ -17,8 +17,8 @@
   </modules>
 
   <scm>
-    <connection>scm:git:git@github.com:qoolseal/maven-starter-project.git</connection>
-    <developerConnection>scm:git:git@github.com:qoolseal/maven-starter-project.git</developerConnection>
+    <connection>scm:git:https://github.com/qoolseal/maven-starter-project.git</connection>
+    <developerConnection>scm:git:https://github.com/qoolseal/maven-starter-project.git</developerConnection>
     <url>http://www.example.com</url>
     <tag>first-maven-1.0.0</tag>
   </scm>
