@@ -10,12 +10,18 @@
 
   <name>first-maven</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+
   <modules>
     <module>database</module>
     <module>service</module>
     <module>web</module>
   </modules>
+
+  <scm>
+    <connection>scm:git:git@github.com:qoolseal/maven-starter-project.git</connection>
+    <developerConnection>scm:git:git@github.com:qoolseal/maven-starter-project.git</developerConnection>
+    <url>http://www.example.com</url>
+  </scm>
 
   <properties>
     <app.env>dev</app.env>
